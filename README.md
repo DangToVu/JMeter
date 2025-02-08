@@ -23,6 +23,7 @@ Kiểm thử khả năng chịu tải (Stress Testing): Xác định giới hạ
 3. Phân tích Kết quả
 
 3.1. Kết quả từ Test Plan50 (50 Users)
+![50](https://github.com/user-attachments/assets/0b190819-ce44-4ddf-b381-081b16b30a98)
 
 Thời gian phản hồi trung bình: 392
 
@@ -33,6 +34,7 @@ Tỷ lệ lỗi (Error Rate): 0.00%
 Nhận xét: Hệ thống có thể xử lý 50 người dùng mà không gặp vấn đề lớn.
 
 3.2. Kết quả từ Test Plan100 (100 Users)
+![100](https://github.com/user-attachments/assets/dcd4be9c-d02a-4160-9a05-cb4ae07712a5)
 
 Thời gian phản hồi trung bình: 453
 

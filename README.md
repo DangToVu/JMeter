@@ -50,3 +50,20 @@ Hệ thống hoạt động ổn định ở mức 50 người dùng.
 
 Ở 100 người dùng, có dấu hiệu giảm hiệu suất, cần tối ưu hóa để cải thiện khả năng chịu tải.
 
+5.Câu hỏi thảo luận:
+1. **Tại sao kiểm thử phi chức năng quan trọng?**  
+   Kiểm thử phi chức năng đảm bảo phần mềm đáp ứng yêu cầu về hiệu suất, bảo mật, khả năng mở rộng và trải nghiệm người dùng, giúp hệ thống hoạt động ổn định trong môi trường thực tế.  
+
+2. **Các thông số quan trọng trong kiểm thử hiệu suất:**  
+   - **Thời gian phản hồi (Response Time)**  
+   - **Throughput (Lưu lượng yêu cầu/giây)**  
+   - **Tỷ lệ lỗi (Error Rate)**  
+   - **Sử dụng tài nguyên (CPU, RAM, I/O)**  
+   - **Khả năng mở rộng (Scalability)**  
+
+3. **Giải pháp khi hệ thống không đáp ứng yêu cầu hiệu suất:**  
+   - **Tối ưu hóa mã nguồn và truy vấn CSDL**  
+   - **Cải thiện caching và nén dữ liệu**  
+   - **Nâng cấp hạ tầng (CPU, RAM, Load Balancer)**  
+   - **Sử dụng CDN và tối ưu mạng**  
+   - **Kiểm tra và tinh chỉnh cấu hình server**
